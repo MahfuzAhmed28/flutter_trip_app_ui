@@ -1,6 +1,10 @@
 # flutter_trip_app_ui
 
 A new Flutter project.
+<p align="center">
+  <img src="screenshots/one.jpg" width="220" />
+  <img src="screenshots/two.jpg" width="220" />
+</p>
 
 ## Getting Started
 
